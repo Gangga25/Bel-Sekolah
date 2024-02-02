@@ -1,0 +1,90 @@
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csprojAssemblyReference.cache
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe.config
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.pdb
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.exe
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.pdb
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Jadwal.accdb
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Awal Upacara.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pekan 1.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pekan 2.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pelajaran A.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pelajaran B.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\awal jam ke 1.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Istirahat I.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Istirahat II.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 1.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 2.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 3.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 4.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 5.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 6.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 7.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 8.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 9.wav
+D:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\pembuka.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Jadwal.accdb
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Awal Upacara.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pekan 1.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pekan 2.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pelajaran A.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pelajaran B.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\awal jam ke 1.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Istirahat I.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Istirahat II.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 1.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 2.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 3.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 4.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 5.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 6.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 7.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 8.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 9.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\pembuka.wav
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe.config
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.pdb
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csprojAssemblyReference.cache
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.exe
+H:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.pdb
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Jadwal.accdb
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Istirahat I.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Istirahat II.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\5 Menit Awal Upacara.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pekan 1.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pekan 2.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pelajaran A.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Akhir Pelajaran B.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\awal jam ke 1.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Istirahat I.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Istirahat II.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 1.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 2.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 3.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 4.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 5.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 6.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 7.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 8.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\Pelajaran ke 9.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\Suara\pembuka.wav
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe.config
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.exe
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\bin\Debug\BEL SEKOLAH.pdb
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csprojAssemblyReference.cache
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.csproj.CoreCompileInputs.cache
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.exe
+E:\GANGGA IK2\BEL SEKOLAH\BEL SEKOLAH\obj\Debug\BEL SEKOLAH.pdb
